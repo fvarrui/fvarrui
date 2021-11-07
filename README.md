@@ -2,11 +2,11 @@
 
 I'm Fran, software engineer :computer:, teacher :man_teacher:, and amateur electronic music producer (aka [Mr.Edge](https://soundcloud.com/misteredge)) :musical_keyboard:.
 
-<a href="https://github.com/fvarrui/github-readme-stats">
+<a href="https://github.com/fvarrui">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=fvarrui&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="fvarrui's github stats" />
 </a>
 
-<a href="https://github.com/fvarrui/github-readme-stats">
+<a href="https://github.com/fvarrui">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvarrui&layout=compact&theme=dracula&hide_border=true" />
 </a>
 
