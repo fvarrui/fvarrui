@@ -1,6 +1,6 @@
 # Hi!
 
-I'm Fran, software engineer, teacher, and amateur electronic music producer (aka [Mr.Edge](https://soundcloud.com/misteredge)).
+I'm Fran, software engineer :computer:, teacher :man_teacher:, and amateur electronic music producer (aka [Mr.Edge](https://soundcloud.com/misteredge)) :musical_keyboard:.
 
 <a href="https://github.com/fvarrui/github-readme-stats">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=fvarrui&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="fvarrui's github stats" />
