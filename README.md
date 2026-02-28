@@ -14,7 +14,3 @@ I'm Fran, software engineer :computer:, teacher :man_teacher:, and sometimes an 
 ### Or if you find any of my projects useful, feel free to...
 
 <a href="https://www.buymeacoffee.com/fvarrui" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-Crafted with ❤ by @fvarrui
